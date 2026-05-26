@@ -147,3 +147,4 @@ This project demonstrates:
 - Deploy interactive dashboard online
 - Add customer segmentation clustering
 
+![Dashboard Preview](dashboard-preview.png)
