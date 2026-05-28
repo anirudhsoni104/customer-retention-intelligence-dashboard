@@ -22,10 +22,10 @@ Customer churn is one of the biggest challenges for telecom companies. Losing cu
 - Long-term business growth
 
 This project helps businesses:
-✅ Detect churn patterns  
-✅ Understand customer behavior  
-✅ Improve retention strategies  
-✅ Reduce revenue loss  
+- Detect churn patterns  
+- Understand customer behavior  
+- Improve retention strategies  
+- Reduce revenue loss  
 
 ---
 
@@ -92,12 +92,12 @@ This project helps businesses:
 
 #  Dashboard Features
 
-✅ KPI Cards  
-✅ Interactive Visualizations  
-✅ Churn Risk Analysis  
-✅ Business Insights Panel  
-✅ Clean Executive Dashboard Design  
-✅ Customer Segmentation Analysis  
+- KPI Cards  
+- Interactive Visualizations  
+- Churn Risk Analysis  
+- Business Insights Panel  
+- Clean Executive Dashboard Design  
+- Customer Segmentation Analysis  
 
 ---
 
