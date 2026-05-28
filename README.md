@@ -1,6 +1,6 @@
-# 📊 Customer Retention Analytics Dashboard
+#  Customer Retention Analytics Dashboard
 
-## 🚀 Project Overview
+##  Project Overview
 The **Customer Retention Analytics Dashboard** is an end-to-end Tableau analytics project designed to analyze customer churn behavior in the telecom industry.
 
 This project focuses on identifying:
@@ -14,7 +14,7 @@ The dashboard transforms raw telecom customer data into actionable business inte
 
 ---
 
-# 🎯 Business Problem
+#  Business Problem
 Customer churn is one of the biggest challenges for telecom companies. Losing customers directly impacts:
 - Revenue
 - Customer acquisition cost
@@ -29,7 +29,7 @@ This project helps businesses:
 
 ---
 
-# 📌 Key KPIs
+#  Key KPIs
 
 | KPI | Value |
 |---|---|
@@ -40,7 +40,7 @@ This project helps businesses:
 
 ---
 
-# 📈 Dashboard Insights
+#  Dashboard Insights
 
 ## 🔹 Contract Risk
 - Month-to-month contracts show the highest churn rate.
@@ -63,7 +63,7 @@ This project helps businesses:
 
 ---
 
-# 🛠 Tools & Technologies Used
+#  Tools & Technologies Used
 
 | Tool | Purpose |
 |---|---|
@@ -74,7 +74,7 @@ This project helps businesses:
 
 ---
 
-# 📂 Files Included
+#  Files Included
 
 | File | Description |
 |---|---|
@@ -84,13 +84,13 @@ This project helps businesses:
 
 ---
 
-# 📷 Dashboard Preview
+#  Dashboard Preview
 
 ![Dashboard Preview](dashboard-preview.png)
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
 ✅ KPI Cards  
 ✅ Interactive Visualizations  
@@ -101,7 +101,7 @@ This project helps businesses:
 
 ---
 
-# 💡 Business Recommendations
+#  Business Recommendations
 
 - Convert month-to-month customers into yearly plans.
 - Improve customer support for fiber optic users.
@@ -111,7 +111,7 @@ This project helps businesses:
 
 ---
 
-# 📁 Dataset Information
+#  Dataset Information
 
 - Dataset Source: IBM Sample Telecom Churn Dataset
 - Total Records: 7,043
@@ -120,14 +120,14 @@ This project helps businesses:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 ## Anirudh Soni
 Aspiring Data Analyst | Tableau Developer | Business Intelligence Enthusiast
 
 ---
 
-# ⭐ Project Outcome
+#  Project Outcome
 
 This project demonstrates:
 - Data visualization skills
@@ -139,7 +139,7 @@ This project demonstrates:
 
 ---
 
-# 🔗 Future Improvements
+#  Future Improvements
 
 - Add SQL integration
 - Build Power BI version
